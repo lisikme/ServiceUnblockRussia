@@ -33,3 +33,4 @@ Powered by KetaruCorp ✨
 
 > ## 3. Запуск службы и добавление в автозапуск
 > Откройте: ``` ServiceTools.exe ```
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"/>
