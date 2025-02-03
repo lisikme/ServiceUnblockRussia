@@ -42,3 +42,11 @@ Powered by KetaruCorp ✨
 
 > ## 3. Запуск службы и добавление в автозапуск
 > <img src="./bin/Frame.png" width="100%"/>
+
+> ```
+> Рекомедуемые методы обхода
+> - UltimateFix (v2).bat
+> - UltimateFix (v3).bat
+> 
+> Если не работает попробуйте другие методы из списка в ServiceTools.exe
+> ```
