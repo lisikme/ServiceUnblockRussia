@@ -24,6 +24,6 @@ Powered by KetaruCorp ✨
 
 ###### Установка службы
 ```
-1. Скачайте последнюю версию ServiceUnblockRussia
+1. Скачайте последнюю версию ServiceUnblockInstaller
 ```
-> ПП
+> Скачать [ServiceUnblockInstaller](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
