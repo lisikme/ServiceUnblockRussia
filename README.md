@@ -22,9 +22,8 @@ Powered by KetaruCorp ✨
 ###
 <div align="left">
 
-### Установка службы
 ```
-1. Скачайте последнюю версию ServiceUnblockInstaller
+Установка службы
 ```
 > ## 1. Установите последнюю версию 
 > ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
@@ -32,5 +31,5 @@ Powered by KetaruCorp ✨
 > ## 2. После установки перейдите в папку
 > ```Путь:``` ```C:\Program Files\UnblockRussia```
 
-> ## 3. 888 
+> ## 3.  
 > ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
