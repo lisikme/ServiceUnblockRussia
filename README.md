@@ -28,10 +28,10 @@ Powered by KetaruCorp ✨
 > ## 1. Скачайте последнюю версию 
 > Скачать: [``` ServiceUnblockRussia ```](https://github.com/lisikme/ServiceUnblockRussia/archive/refs/heads/main.zip)
 
-> ## 1. Извлеките архив вот сюда
+> ## 2. Извлеките архив в папку
 > Путь: ``` C:\UnblockRussia ```
 
-> ## 2. Запуск службы и добавление в автозапуск
+> ## 3. Запуск службы и добавление в автозапуск
 > Откройте: ``` ServiceTools.exe ```
 
 <!-- > ## 1. Установите последнюю версию 
