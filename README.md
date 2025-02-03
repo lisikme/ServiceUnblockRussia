@@ -2,7 +2,7 @@
 <img height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
 <h1 style='font-size: 50px;'>ServiceUnblockRussia</h1>
-###### Powered by KetaruCorp ✨</h3>
+Powered by KetaruCorp ✨</h3>
 <h1> ServiceUnblockRussia</h1>
 <h2>Лаунчер для автоматизации обхода DPI</h2>
 <h3>Лаунчер позволяет быстро и интуитивно понятно запустить обход DPI. Идеален для снятия физического ограничения на посещение таких адресов, как</h3>
