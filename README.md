@@ -25,6 +25,15 @@ Powered by KetaruCorp ✨
 ```
 Установка службы
 ```
+<!-- > ## 1. Установите последнюю версию 
+> Скачать: [``` ServiceUnblockInstaller ```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
+
+> ## 2. После установки перейдите в папку
+> Путь: ``` C:\Program Files\UnblockRussia ```
+
+> ## 3. Запуск службы и добавление в автозапуск
+> Откройте: ``` ServiceTools.exe ``` -->
+> 
 > ## 1. Скачайте последнюю версию 
 > Скачать: [``` ServiceUnblockRussia ```](https://github.com/lisikme/ServiceUnblockRussia/archive/refs/heads/main.zip)
 
@@ -34,13 +43,4 @@ Powered by KetaruCorp ✨
 > ## 3. Запуск службы и добавление в автозапуск
 > Откройте: ``` ServiceTools.exe ```
 
-<!-- > ## 1. Установите последнюю версию 
-> Скачать: [``` ServiceUnblockInstaller ```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
-
-> ## 2. После установки перейдите в папку
-> Путь: ``` C:\Program Files\UnblockRussia ```
-
-> ## 3. Запуск службы и добавление в автозапуск
-> Откройте: ``` ServiceTools.exe ``` -->
->
 > <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865f2&logoColor=white&labelColor=&style=for-the-badge" width="100%" alt="discord logo"/>
