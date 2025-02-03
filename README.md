@@ -3,7 +3,7 @@
 
 # ServiceUnblockRussia
 
-<img height="150" src="https://cdn.discordapp.com/attachments/1066404907818692808/1335902297229627392/f526775e428eece2b1b9101cf5c3382a.gif?ex=67a1db77&is=67a089f7&hm=c14cb3470507bbf30c5b8878c5d4f7e788cc9826bcd021d3ae05b91c303e8dfe&"/>
+<img height="150" src="./bin/brage.gif"/>
 
 Powered by KetaruCorp ✨
 
