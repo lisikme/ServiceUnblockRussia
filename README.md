@@ -22,7 +22,7 @@ Powered by KetaruCorp ✨
 ###
 <div align="left">
 
-#### Установка службы
+### Установка службы
 ```
 1. Скачайте последнюю версию ServiceUnblockInstaller
 ```
