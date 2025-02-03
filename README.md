@@ -14,6 +14,6 @@ Powered by KetaruCorp ✨
 
 ###
 
+###### Установка службы
 ```
-https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
 ```
