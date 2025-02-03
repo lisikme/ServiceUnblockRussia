@@ -31,5 +31,5 @@ Powered by KetaruCorp ✨
 > ## 2. После установки перейдите в папку
 > ```Путь:``` ```C:\Program Files\UnblockRussia```
 
-> ## 3.  
-> ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
+> ## 3. Запуск службы и добавление в автозапуск
+> ```Откройте:``` ```ServiceTools.exe```
