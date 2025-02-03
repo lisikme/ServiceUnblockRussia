@@ -3,7 +3,7 @@
 
 # ServiceUnblockRussia
 
-<img height="150" src="./bin/brage.gif"/>
+<img height="200" src="./bin/brage.gif"/>
 
 Powered by KetaruCorp ✨
 
