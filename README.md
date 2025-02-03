@@ -1,7 +1,6 @@
 <div align="center">
 <img height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
-# ServiceUnblockRussia77
+# ServiceUnblockRussia
 Powered by KetaruCorp ✨</h3>
 <h1> ServiceUnblockRussia</h1>
 <h2>Лаунчер для автоматизации обхода DPI</h2>
