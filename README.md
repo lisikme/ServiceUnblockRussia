@@ -1,7 +1,7 @@
 <div align="center">
 <img height="150" src="https://i.imgflip.com/65efzo.gif"/>
 
-<p align="center" style="font-size:40px">ServiceUnblockRussia</p>
+<h1>ServiceUnblockRussia</h1>
 ###### Powered by KetaruCorp ✨</h3>
 <h1> ServiceUnblockRussia</h1>
 <h2>Лаунчер для автоматизации обхода DPI</h2>
