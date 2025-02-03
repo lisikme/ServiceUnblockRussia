@@ -26,10 +26,10 @@ Powered by KetaruCorp ✨
 Установка службы
 ```
 > ## 1. Установите последнюю версию 
-> ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
+> Скачать: [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
 
 > ## 2. После установки перейдите в папку
-> ```Путь:``` ```C:\Program Files\UnblockRussia```
+> Путь: ```C:\Program Files\UnblockRussia```
 
 > ## 3. Запуск службы и добавление в автозапуск
-> ```Откройте:``` ```ServiceTools.exe```
+> Откройте: ```ServiceTools.exe```
