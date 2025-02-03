@@ -25,4 +25,5 @@ Powered by KetaruCorp ✨
 ###### Установка службы
 ```
 1. Скачайте последнюю версию ServiceUnblockRussia
-``` АА44
+```
+ПП
