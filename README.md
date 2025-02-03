@@ -20,6 +20,7 @@ Powered by KetaruCorp ✨
 
 
 ###
+<div align="left">
 
 ###### Установка службы
 ```
