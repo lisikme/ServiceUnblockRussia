@@ -27,10 +27,10 @@ Powered by KetaruCorp ✨
 1. Скачайте последнюю версию ServiceUnblockInstaller
 ```
 > ## 1. 888 
-> Скачать: [ServiceUnblockInstaller](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
+> ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
 
 > ## 2. 888 
-> Скачать: [ServiceUnblockInstaller](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
+> ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
 
 > ## 3. 888 
 > ```Скачать:``` [```ServiceUnblockInstaller```](https://github.com/lisikme/ServiceUnblockRussia/releases/tag/Stable)
